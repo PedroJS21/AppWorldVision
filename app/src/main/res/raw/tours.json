@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Full day Castillo de Chancay",
+    "url": "https://turismoi.pe/uploads/photo/photo_file/19414/optimized_2172_001.jpg",
+    "precio": "S/65",
+    "informacion": "Full day Chancay con visita a Castillo de Chancay + Paseo en Viñedos + Casa Hacienda Huando + Degustación de vinos de la zona y más con Cea Tours. Salidas , sábados y domingos"
+  },
+  {
+    "titulo": "Aventura en Paracas",
+    "url": "https://res.cloudinary.com/tourhq/image/upload/c_fill,fl_progressive,g_auto,h_493,q_auto:best,w_876/yokvyo5ndbervhxsgsjg",
+    "precio": "S/100",
+    "informacion": "Después de haber conocido las espectaculares Islas Ballestas, no se pierda la oportunidad de vivir la emoción y adrenalina haciendo el recorrido por las dunas de Pisco."
+  },
+  {
+    "titulo": "Machu Pichu Full Day",
+    "url": "https://www.ohmachupicchu.com/wp-content/uploads/Viaje-en-grupo-a-Machupicchu.jpg",
+    "precio": "S/170",
+    "informacion": "tenemos un equipo de profesionales experimentados en turismo listos para ofrecer todo su conocimiento y el mejor servicio al pasajero, para hacer de su visita al Cusco un recuerdo inolvidable. Lo invitamos a disfrutar del Tour de Machu Picchu 1 día y recargar sus energías en esta mágica ciudad de los Incas"
+  },
+  {
+    "titulo": "¡Disfruta de Lunahuana!",
+    "url": "https://content.r9cdn.net/himg/dc/e8/af/arbisoftimages-2112599-Portada-Piscina-Web-872501.jpg",
+    "precio": "S/169",
+    "informacion": "¡Lunahuaná para 2! Desde S/ 169 por 1, 2 o 3 noches en habitación matrimonial + desayunos en Hotel Valle Hermoso de Lunahuaná."
+  },
+  {
+    "titulo": "Full Day Tour Valle del Perene",
+    "url": "https://fulldays.net/wp-content/uploads/2017/10/Sin-t%C3%ADtulo-2-4.jpg",
+    "precio": "S/150",
+    "informacion": "Conoce la Selva Central y sus Cataratas asombrosas."
+  }
+]
